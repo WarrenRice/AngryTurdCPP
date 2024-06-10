@@ -1,0 +1,8 @@
+[2024-06-10 17:51:04][Info]	Context reports FSAA is available with 8samples
+[2024-06-10 17:51:04][Info]	Requesting FSAA with 8samples
+[2024-06-10 17:51:04][Info]	1 monitor detected.
+[2024-06-10 17:51:04][Info]	Renderer: NVIDIA GeForce RTX 3070 Ti Laptop GPU/PCIe/SSE2
+[2024-06-10 17:51:04][Info]	OpenGL version supported: 4.6.0 NVIDIA 546.80
+[2024-06-10 17:51:04][Info]	Creating TextureManager with 31 maximum bound textures
+[2024-06-10 17:52:06][Info]	Terminated Blit3D
+[2024-06-10 17:52:06][Info]	TextureManager destroyed
